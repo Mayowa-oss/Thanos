@@ -1,0 +1,11 @@
+userprompt = alert("Hi Bethel");
+     userprompt = alert("you entered 3 and 4");
+     userprompt = alert("the sum of both numbers is");
+     Number("3") + Number("4"); 
+     var sum = Number ("3") + Number("4");
+     alert(sum);
+     userprompt = alert("now take away your age from the answer value");
+     let age = prompt('age?', 23);
+     let a = 23;
+     console.log(age -= 7);
+     alert(age);
